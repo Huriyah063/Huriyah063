@@ -1,7 +1,3 @@
-# 💫 About Me:
-Tentang Saya<br>Saya adalah mahasiswa semester 5 di STT Terpadu Nurul Fikri yang memiliki ketertarikan pada bidang Fullstack Web Development, khususnya dalam pengembangan aplikasi menggunakan React.js. Saya terbiasa membangun antarmuka website yang responsive, modern, dan user-friendly serta terus mempelajari teknologi backend untuk mengembangkan aplikasi web secara end-to-end.<br>Saya memiliki pengalaman mengerjakan beberapa project berbasis web menggunakan JavaScript, React.js, Vite, dan GitHub sebagai version control. Dalam proses pengembangan, saya senang mempelajari struktur aplikasi yang scalable, reusable component, serta penerapan UI yang clean dan terorganisir.<br>Sebagai mahasiswa teknologi informasi, saya terus mengembangkan kemampuan dalam frontend maupun backend development dengan fokus pada pembuatan aplikasi web yang efisien, interaktif, dan mudah digunakan pengguna.<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huriyah063) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:myhuriihuriyah@gmail.com) 
 
